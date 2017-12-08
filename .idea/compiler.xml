@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="manymavenweb" />
+        <module name="sonmaven" />
+        <module name="twoson" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="manymavenproject" target="1.5" />
+      <module name="manymavenweb" target="1.5" />
+      <module name="sonmaven" target="1.5" />
+      <module name="twoson" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

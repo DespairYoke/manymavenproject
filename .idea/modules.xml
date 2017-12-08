@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/manymavenproject.iml" filepath="$PROJECT_DIR$/manymavenproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manymavenweb/manymavenweb.iml" filepath="$PROJECT_DIR$/manymavenweb/manymavenweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sonmaven/sonmaven.iml" filepath="$PROJECT_DIR$/sonmaven/sonmaven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twoson/twoson.iml" filepath="$PROJECT_DIR$/twoson/twoson.iml" />
+    </modules>
+  </component>
+</project>
